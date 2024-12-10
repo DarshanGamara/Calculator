@@ -1,0 +1,10 @@
+.calculator {
+  width: 500px;
+  margin: 50px auto;
+  text-align: center;
+  background: #f3f3f3;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.5);
+}
+
